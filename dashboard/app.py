@@ -283,6 +283,7 @@ def main():
         <p style="margin:0.35rem 0 0 0;">
         A decision-focused branch performance dashboard designed to uncover profit drivers, spending efficiency, and growth opportunities across supermarket locations.
         Created by : Powell A. Ndlovu GIS and Data Analyst
+        <h5 style="margin:0;">Created by : Powell A. Ndlovu GIS and Data Analyst</h5>
         </p>
     </div>
     """, unsafe_allow_html=True)
