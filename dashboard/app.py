@@ -282,6 +282,7 @@ def main():
         <h2 style="margin:0;">Supermarket Branch Profit Intelligence Dashboard</h2>
         <p style="margin:0.35rem 0 0 0;">
         A decision-focused branch performance dashboard designed to uncover profit drivers, spending efficiency, and growth opportunities across supermarket locations.
+        Created by : Powell A. Ndlovu GIS and Data Analyst
         </p>
     </div>
     """, unsafe_allow_html=True)
